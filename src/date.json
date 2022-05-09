@@ -1,0 +1,4401 @@
+[
+  {
+    "typehtml": "select",
+    "type": "select1",
+    "name": "select1",
+    "label": "Família do Produto ou Serviço",
+    "validations": {
+      "required": "Campo obrigatório"
+    },
+    "values": [
+      {
+        "id": 0,
+        "text": "Atendimento",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": 0,
+            "text": "Telebanco",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Acesso",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Atendente",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Senha do Telebanco",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Tempo de atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Tempo de espera",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "text": "Cartões",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": 0,
+            "text": "Cartão de Crédito BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "2ª via de fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Anuidade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Atualização de cadastro",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Baixa no pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Cartão virtual",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Cobrança de SMS",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Cobrança indevida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Compra desconhecida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 11,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 12,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 13,
+                "text": "Financiamento do saldo devedor da fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 14,
+                "text": "Limite de crédito – liberação após pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 15,
+                "text": "Limite de crédito baixo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 16,
+                "text": "Limite de crédito não aprovado",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 17,
+                "text": "Limite de crédito reduzido pelo banco",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 18,
+                "text": "Parcelamento de fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 19,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 20,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 21,
+                "text": "Saque",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 22,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 23,
+                "text": "Upgrade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 24,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "text": "Cartão de Crédito Dux",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Anuidade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Atualização de cadastro",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Baixa no pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Cartão virtual",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Cobrança indevida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Compra desconhecida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 11,
+                "text": "Financiamento do saldo devedor da fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 12,
+                "text": "Limite de crédito – liberação após pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 13,
+                "text": "Limite de crédito baixo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 14,
+                "text": "Limite de crédito não aprovado",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 15,
+                "text": "Parcelamento de fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 16,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 17,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 18,
+                "text": "Saque",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 19,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 20,
+                "text": "Upgrade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 21,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Cartão de Crédito Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "2ª via de fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Anuidade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Atualização de cadastro",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Baixa no pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Cartão virtual",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Cobrança de SMS",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Cobrança indevida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Compra desconhecida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 11,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 12,
+                "text": "Débito em Conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 13,
+                "text": "Financiamento do saldo devedor da fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 14,
+                "text": "Limite de crédito – liberação após pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 15,
+                "text": "Limite de crédito baixo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 16,
+                "text": "Limite de crédito não aprovado",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 17,
+                "text": "Limite de crédito reduzido pelo banco",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 18,
+                "text": "Parcelamento de fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 19,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 20,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 21,
+                "text": "Saque",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 22,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 23,
+                "text": "Upgrade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 24,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Cartão de Crédito Stock Car",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "2ª via de fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Anuidade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Atualização de cadastro",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Baixa no pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Cartão virtual",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Cobrança de SMS",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Cobrança indevida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Compra desconhecida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 11,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 12,
+                "text": "Débito em Conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 13,
+                "text": "Financiamento do saldo devedor da fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 14,
+                "text": "Limite de crédito – liberação após pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 15,
+                "text": "Limite de crédito baixo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 16,
+                "text": "Limite de crédito não aprovado",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 17,
+                "text": "Limite de crédito reduzido pelo banco",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 18,
+                "text": "Parcelamento de fatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 19,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 20,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 21,
+                "text": "Saque",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 22,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 23,
+                "text": "Upgrade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 24,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Cartão de Débito BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Cartão de Débito Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Cartão de Débito Poupança BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Cartão Pré-Pago BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Compra desconhecida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Débito em Conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saque",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Upgrade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "Cartão Pré-Pago Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Compra desconhecida",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Débito em Conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Recebimento do Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saque",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Upgrade",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Utilização",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Programa de benefícios",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cashback",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Crédito de pontos",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Resgate de pontos",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Transferência de pontos",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "BRB Seguros",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": 0,
+            "text": "Assistência",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Condomínio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Empresarial",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "text": "Consórcio",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Consórcio Automóvel",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Consórcio de Imóvel",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Consórcio de Serviços",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Lazer",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "BRB Férias",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Previdência",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "PGBL",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "VGBL",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Proteção",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Frota",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Rural",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Vida em grupo",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Saúde",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "BRB Odonto",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Seguro auto",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Devolução",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Seguro de vida BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Devolução",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "Seguro de vida Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Devolução",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Seguro patrimonial",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Devolução",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Seguro prestamista BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento/Devolução",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito antecipado de parcelas",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Recusa/Barreira na devolução",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Seguro prestamista Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento/Devolução",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito antecipado de parcelas",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Recusa/Barreira na devolução",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Seguro residencial",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Devolução",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Seguro viagem",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Devolução",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Câmbio",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": 0,
+            "text": "Câmbio",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Câmbio de importação e exportação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Câmbio em espécie",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Câmbio Turismo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Código Iban",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Compra e venda",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Transferência internacionais",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Cheques",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": 0,
+            "text": "Cheques",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Devolução",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Exclusão de CCF",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Fraude",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Inclusão de CCF",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Prazo de Liquidação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Prazo de Liquidação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Sustação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Talonário",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Conta",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": 0,
+            "text": "Conta Corrente BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Abertura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Bloqueio judicial",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Cadastro",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Débito Associação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Débito automático",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Depósito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Divergência de saldo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Encerramento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Extrato",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Limite de movimentação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 11,
+                "text": "Pagamentos",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 12,
+                "text": "Pix",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 13,
+                "text": "Pix (contestação)",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 14,
+                "text": "Poupança integrada",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 15,
+                "text": "Saldo provisionado",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 16,
+                "text": "Saque  em terminal do Banco24Horas",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 17,
+                "text": "Saque em terminal compartilhado com o Banco do Brasil",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 18,
+                "text": "Saque em terminal de Agência BRB",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 19,
+                "text": "Transferência de Conta",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "text": "Conta Corrente Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Abertura de conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Atualização de cadastro",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Bloqueio judicial",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Débito automático",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Depósito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Divergência de saldo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Encerramento de conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Extrato",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Limite de movimentação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Pagamentos",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 11,
+                "text": "Pix",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 12,
+                "text": "Pix (contestação)",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 13,
+                "text": "Poupança integrada",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 14,
+                "text": "Saldo provisionado",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 15,
+                "text": "Saque  em terminal do Banco24Horas",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 16,
+                "text": "Transferência de Conta",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Conta Poupança",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Abertura de conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Bloqueio judicial",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Débito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Depósito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Divergência de saldo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Encerramento de conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Extrato",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Pix",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Pix (contestação)",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Saldo provisionado",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 11,
+                "text": "Saque  em terminal do Banco24Horas",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 12,
+                "text": "Saque em terminal compartilhado com o Banco do Brasil",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 13,
+                "text": "Saque em terminal de Agência BRB",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 14,
+                "text": "Transferência de conta",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Conta Salário",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Bloqueio judicial",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Divergência de saldo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Encerramento de conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Extrato",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Portabilidade de salário",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Saque",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Transferência de saldo",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Empréstimos e Financiamentos",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": 0,
+            "text": "Adiantamento depositante BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "text": "Antecipação de 13° salário",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Antecipação de Benefícios",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Antecipação de Férias",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Antecipação de Recebíveis – Cartão",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Antecipação de Recebíveis – Cheque",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Antecipação de Recebíveis – Desc. Cobrança",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Antecipação de salário",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "BNDES Industrial",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Análise e liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Documentação para análise",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "BNDES Rural",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Análise e liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Documentação para análise",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "CDC veículos",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Contestação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Estorno",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Cheque Especial BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Análise e liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento de empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Portabilidade de Crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "Cheque Especial Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Análise e liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Portabilidade de Crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "Compra Parcelada",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Conta Garantida PJ",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Cred Reforma",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Crédito Consignado - BRBSERV",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "Crédito Consignado Financeira BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Portabilidade de Crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "Crédito Consignado INSS",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Oferta inadequada do produto",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "Crédito Inclusão",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Portabilidade de Crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "Crédito Pessoal BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Portabilidade de Crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 21,
+            "text": "Crédito Pessoal Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Portabilidade de Crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "text": "FCO Empresarial",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Documentação para análise",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 23,
+            "text": "FCO Rural",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Documentação para análise",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "text": "FINAME",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Documentação para análise",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "text": "Financiamento de veículos",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Baixa de gravame",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Documentação para análise",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Pagamento",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "text": "Financiamento Imobiliário",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Documentação para análise",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Escritura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Interveniente quitante",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Pagamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Portabilidade",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 27,
+            "text": "Outros",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Protesto",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 28,
+            "text": "Progiro - Micro e Pequenas Empresas",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "text": "Progiro 13º",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito em conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Juros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Liberação de margem",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Liberação do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Liquidação antecipada da parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Liquidação antecipada do empréstimo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Parcela",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Renegociação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Saldo devedor",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 30,
+            "text": "Renegociação",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Acordo Autos BRB",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Acordo Autos Nação BRB FLA",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Acordo BRB",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Acordo Nação BRB FLA",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Novação BRB",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Novação Nação BRB FLA",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Reneg. BRB",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Reneg. Nação BRB FLA",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Outros Temas",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": 0,
+            "text": "Adquirência",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição de maquineta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Processamento do crédito",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Entrega da maquineta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Trava de domicílio",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "text": "Alvará",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Levantamento de Alvará",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "text": "Arrecadação",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Agendamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Débito automático",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "text": "Auxílio gás",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aplicativo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Recebimento do cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "text": "Auxílio Permissionário",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aplicativo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Recebimento do cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "text": "Capitalização",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Dificuldade de resgate",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Oferta do produto",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "text": "Cartão Alimentação/Creche",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aplicativo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Recebimento do cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "text": "Cartão Material Escolar",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aplicativo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Recebimento do cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "text": "Cobrança bancária",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Compensação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Emissão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Sistema",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "text": "Concurso Público",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Dúvidas",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "text": "Demandas Judiciais",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Conta Judicial",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Fiança",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Outros assuntos",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Transferência de valores para conta judicial",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "text": "Demandas TJBA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Alvará de PIX",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Atendimento da Agência BRB",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Atendimento de correspondentes na Bahia",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "BRBJUS",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Conta pendente de assinatura",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Documentos necessários para levantamento de alvarás",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Extrato/saldo da conta judicial",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Guia de depósito judicial",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 8,
+                "text": "Informação divergente de vara",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 9,
+                "text": "Informações sobre alvarás",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 10,
+                "text": "Saque de alvará",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 11,
+                "text": "Token",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "text": "DF Social",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Abertura de conta",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Contestações",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Saque",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 13,
+            "text": "LGPD – Dados pessoais e Privacidade",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Acesso a dados pessoais ou financeiros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Coleta, uso ou compartilhamento de dados pessoais ou financeiros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Dados pessoais ou financeiros incorretos/desatualizados",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "text": "Mobilidade",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aplicativo/Site",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Bloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Desbloqueio",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Integração",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Passe livre estudantil",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 5,
+                "text": "Pessoas com deficiência/PCD",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 6,
+                "text": "Recarga",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 7,
+                "text": "Sistema inoperante",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "text": "Parcerias com o GDF",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Autódromo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Convênio Médico GDF (Saúde-DF)",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Estádio Nacional",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 3,
+                "text": "Hospital de Samambaia",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 4,
+                "text": "Torre de TV de Brasília",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 16,
+            "text": "Previdência",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aquisição",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "text": "ProCred DF",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": 0,
+                "text": "Aplicativo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 1,
+                "text": "Recebimento do cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": 2,
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 18,
+            "text": "Programa Prato Cheio",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Aplicativo",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Recebimento do cartão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "3",
+                "text": "Senha",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "text": "Prova de vida",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Sistema",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Suspensão de pagamento",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": 20,
+            "text": "RDC viagens",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Adesão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Serviços para você",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": "0",
+            "text": "Débito Automático",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Adesão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Débito não realizado",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": "1",
+            "text": "Depósito Judicial",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Liberação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Pagamento",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "text": "FUNGETUR",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Atendimento",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Documentação para análise",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Liberação do financiamento",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Tarifas e Assemelhados",
+        "type": "values",
+        "name": "values",
+        "options": [
+          {
+            "id": "0",
+            "text": "Outras tarifas",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Tarifa Devolução Cheque",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Tarifa Exclusão de CCF",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Tarifa Extrato dia",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "3",
+                "text": "Tarifa Sustação Cheque",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": "1",
+            "text": "Pacote de serviços",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Adesão",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Cancelamento",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "text": "Tarifa Antecipação Cartão",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Contratação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Renovação",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "text": "Tarifa de Adesão ao Crédito PJ",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Contratação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Renovação",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "text": "Tarifa de adiantamento depositante BRB",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Contratação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Renovação",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "text": "Tarifa de adiantamento depositante Nação BRB FLA",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Contratação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Renovação",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "text": "Tarifa Manutenção C/C PJ",
+            "type": "options",
+            "name": "options",
+            "subject": [
+              {
+                "id": "0",
+                "text": "Contratação",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "1",
+                "text": "Outros",
+                "type": "subject",
+                "name": "subject"
+              },
+              {
+                "id": "2",
+                "text": "Renovação",
+                "type": "subject",
+                "name": "subject"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
